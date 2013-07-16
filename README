@@ -1,0 +1,6 @@
+A relativly simple combat management tool for Dungeon Masters for Dungeons&Dragons 4E.
+Manages monster entities with hitpoints and conditions. Written in C++ with QT
+
+Author:  Alexander Bock (hijinxs@web.de)
+
+Hosted on: https://sourceforge.net/projects/combatally/
